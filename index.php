@@ -38,8 +38,10 @@
             </div>
         </div>
         <div class="footer">
-            <div class="content">
-                Some content
+            <div class="content-pane">
+                <div id="content">
+                    Content goes here
+                </div>
             </div>
             <div class="links">
                 <div id="jme-icon">
@@ -55,6 +57,16 @@
                     Designed and developed by <a href="#">Anurag Gautam</a> & <a href="#">Chandra Shekhar</a><br>
                     Copyright &COPY; <?php echo date("Y"); ?>, Anurag Gautam
                 </center>
+            </div>
+        </div>
+        <div class="maya">
+            <div class="dialog">
+                <div class="title-bar">Hello World</div>
+                <div class="content">
+                    Conrtent goes here
+                    <div class="button">Okay</div>
+                </div>
+                
             </div>
         </div>
     </body>
