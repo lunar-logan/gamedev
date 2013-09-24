@@ -1,0 +1,85 @@
+/* 
+    Document   : base
+    Created on : Sep 24, 2013, 1:28:29 PM
+    Author     : ANURAG
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body {
+    font-family: "Tahoma";
+}
+.canvas {
+    background: white;
+    box-shadow: #5e5e5e 0px 0px 8px;
+    overflow: auto;
+    word-wrap: break-word;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    background-image: url("../img/earth.jpg");
+
+}
+.canvas .main-content {
+    margin-top: 40px;
+    width: 65%;
+    min-width: 640px;
+    overflow-x: auto;
+    overflow-y: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.canvas .main-content .content {
+    padding: 12px;
+    word-wrap: break-word;
+    height: 440px;
+}
+
+.canvas .main-content .content #title {
+    font-size: 36px;
+    margin-top: 48px;
+    color: #e6e6e6;
+}
+.canvas .main-content .content p {
+    font-size: 14px;
+    color: #e6e6e6;
+    width: 400px;
+    word-wrap: break-word;
+    line-height: 24px;
+}
+.footer {
+    /*padding-top: 16px;*/
+    font-size: 12px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.footer .content {
+    padding: 12px;
+    background: #ffc2c2;
+}
+.footer .links {
+    background: #080808;
+    border-top: solid 3px #e6e6e6;
+    color: white;
+}
+.footer .links #jme-icon {
+    padding: 16px;
+}
+.footer .links #jme-icon img {
+    margin-right: 48px;
+}
+.footer .copy {
+    border-top: solid 1px #1c1c1c;
+    padding: 16px;
+    background: #080808;
+    color: white;
+    min-height: 60px;
+}
+.footer .copy a {
+    text-decoration: none;
+    color: #0075c4;
+}
