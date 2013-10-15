@@ -40,7 +40,8 @@
         <div class="footer">
             <div class="content-pane">
                 <div id="content">
-                    Content goes here
+                    <h1>Presentation</h1>
+                    <a href="http://prezi.com/ylzluqb36dar/present/?auth_key=vnmaku2&follow=zz6aonhcudv1">Presentation</a>
                 </div>
             </div>
             <div class="links">
@@ -63,7 +64,8 @@
             <div class="dialog">
                 <div class="title-bar">Hello World</div>
                 <div class="content">
-                    Conrtent goes here
+                    <h1>Presentation</h1>
+                    <a href="http://prezi.com/ylzluqb36dar/present/?auth_key=vnmaku2&follow=zz6aonhcudv1">Presentation</a>
                     <div class="button">Okay</div>
                 </div>
                 
